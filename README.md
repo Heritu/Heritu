@@ -33,6 +33,7 @@ Você também pode me acompanhar no YouTube, "<a href="https://www.youtube.com/@
     <img alt="React" title="React" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img alt="Python" title="Python" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
     <img alt="Django" title="Django" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+    <img alt="Flask" title="Flask" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
     <img alt="Node JS" title="Node JS" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
     <img alt="SQL" title="SQL" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
     <img alt="MySQL" title="MySQL" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
