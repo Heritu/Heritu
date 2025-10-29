@@ -86,12 +86,6 @@ Você também pode me acompanhar no YouTube, "<a href="https://www.youtube.com/@
             src="https://img.shields.io/badge/LinkedIn-Hector%20Bernhardt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
         />
     </a>
-    <a href="[ADICIONE SEU LINK DO PORTFÓLIO AQUI]">
-        <img 
-            alt="Portfólio" 
-            src="https://img.shields.io/badge/Portfolio-Projetos-772986?style=for-the-badge&logo=vercel&logoColor=white" 
-        />
-    </a>
     <a href="https://github.com/Heritu?tab=followers">
         <img 
             alt="Seguidores" 
