@@ -39,6 +39,8 @@ Você também pode me acompanhar no YouTube, "<a href="https://www.youtube.com/@
     <img alt="DBeaver" title="DBeaver" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
     <img alt="FIGMA" title="FIGMA" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
     <img alt="Git" title="Git" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img alt="Notion" title="Notion" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/>
+
 </p>
 
 ---
