@@ -8,7 +8,7 @@
 <h3 align="center">
     <code>Design UX/UI</code> | 
     <code>Análise e Modelagem de Dados</code> | 
-    <code>Desenvolvimento Fullstack (Python Backend)</code>
+    <code> Web Desenvolvedor (Python, JavaScript, TypeScript & HTML/CSS)</code>
 </h3>
 
 
