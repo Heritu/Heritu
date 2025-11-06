@@ -7,7 +7,7 @@
 
 <h3 align="center">
     <code>Design UX/UI</code> | 
-    <code>Análise e Modelagem de Dados</code> | 
+    <code>Análise e Modelagem de Dados</code>
 </h3>
 
 
