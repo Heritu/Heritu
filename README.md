@@ -22,7 +22,7 @@ Você também pode me acompanhar no YouTube, "<a href="https://www.youtube.com/@
 </p>
 
 
-<h3 align="center">🛠️ Linguagens, Frameworks e Ferramentas</h3>
+<h3 align="center">🛠️ Ferramentas</h3>
 
 <p align="center">
     <img alt="HTML" title="HTML" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
