@@ -1,4 +1,4 @@
-<h1 align="center">☕ Hector Bernhardt </h1> 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/182d94f9-ba34-4666-a39b-ad3d8c93e7fe" /><h1 align="center">☕ Hector Bernhardt </h1> 
 
 
 <p align="center">
@@ -29,7 +29,6 @@ Você também pode me acompanhar no YouTube, "<a href="https://www.youtube.com/@
     <img alt="CSS" title="CSS" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
     <img alt="JavaScript" title="JavaScript" width="40px" style="padding: 5px 10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img alt="TypeScript" title="TypeScript" width="40px" style="padding: 5px 10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img alt="React" title="React" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img alt="Python" title="Python" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
     <img alt="Django" title="Django" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
     <img alt="Flask" title="Flask" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
@@ -40,6 +39,15 @@ Você também pode me acompanhar no YouTube, "<a href="https://www.youtube.com/@
     <img alt="FIGMA" title="FIGMA" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
     <img alt="Git" title="Git" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img alt="Notion" title="Notion" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/>
+    <img alt="React" title="React" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img alt="Vue.js" title="Vue.js" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+    <img alt="Angular" title="Angular" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+    <img alt="Photoshop" title="Photoshop" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" />
+    <img alt="After Effects" title="After Effects" width="40px" style="padding: 5px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-plain.svg" />
+
+    
+
+
 
 </p>
 
