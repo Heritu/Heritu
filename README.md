@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/182d94f9-ba34-4666-a39b-ad3d8c93e7fe" /><h1 align="center">☕ Hector Bernhardt </h1> 
+<h1 align="center">☕ Hector Bernhardt </h1> 
 
 
 <p align="center">
