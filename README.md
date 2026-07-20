@@ -49,5 +49,4 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/78cae24f-2b35-46b5-b573-431db359b607" width="100%" />
 </div>
