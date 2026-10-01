@@ -13,9 +13,6 @@
   Faço experimentos com linguagens de baixo nível
 </p>
 <p align="center">
-  Meu objetivo é ingressar na área de cibersegurança e machine learning
-</p>
-<p align="center">
   Atualmente, estou focado em construir uma base técnica sólida. Não sou um especialista, sou um estudante dedicado a aprender na prática, explorando desde estruturas de dados em C/C++ até o desenvolvimento de projetos reais.
 </p>
 
